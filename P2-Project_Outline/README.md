@@ -5,7 +5,7 @@ For this assignment, you will submit a high-level outline of your project. This 
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
 ## Submission Instructions
-
+Project Outline Document-- (https://docs.google.com/document/d/1DlkhMUT2g_BN-JSrxDWh6TVGvcFEgyRQ5AOP4t2jIBk/edit)
 ### Overview
 Include overview here
 ### Features
@@ -15,4 +15,5 @@ Include Technologies here
 ### What I'll Have to Learn
 Include what you will need to learn here
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/HG7LYltZ/health-nutrition-diet
+
